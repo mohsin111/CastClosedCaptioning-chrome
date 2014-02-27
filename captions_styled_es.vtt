@@ -1,0 +1,28 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:5.000
+Probando el soporte de WebVTT en Chromecast 
+
+00:00:06.000 --> 00:00:10.000 line:5%
+Este texto esta en la parte de arriba del video
+
+00:00:11.000 --> 00:00:15.000 position:5% align:start
+Este texto esta en la parte izquierda del video
+
+00:00:16.000 --> 00:00:20.000 position:95% align:end
+Este texto esta en la parte derecha del video
+
+00:00:21.000 --> 00:00:25.000 size:33%
+El tamaño del texto es 33% del ancho de pantalla, así que necesita varias líneas
+
+00:00:26.000 --> 00:00:30.000
+Este texto contiene una palabra en <b>negrita</b>
+
+00:00:31.000 --> 00:00:35.000
+Este texto contiene una palabra <i>cursiva</i>
+
+00:00:36.000 --> 00:00:40.000
+Este texto contiene una palabra <u>subrayada</u>
+
+00:00:41.000 --> 00:00:45.000
+Esta linea contiene palabras en <b><i><u>negrita, cursiva, y subrayadas</u></i></b>
